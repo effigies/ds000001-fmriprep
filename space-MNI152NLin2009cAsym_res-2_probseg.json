@@ -1,0 +1,4 @@
+{
+  "SpatialReference": "https://s3.amazonaws.com/templateflow/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_T1w.nii.gz",
+  "Resolution": "2mm isotropic"
+}

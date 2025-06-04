@@ -1,5 +1,6 @@
 {
   "RawSources": [
     "sub-04/func/sub-04_task-balloonanalogrisktask_run-01_bold.nii.gz"
-  ]
+  ],
+  "SpatialReference": "bids::sub-04/anat/sub-04_desc-preproc_T1w.nii.gz"
 }

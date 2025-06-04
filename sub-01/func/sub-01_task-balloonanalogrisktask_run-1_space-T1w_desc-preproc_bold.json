@@ -2,5 +2,6 @@
   "RepetitionTime": 2.0,
   "SkullStripped": false,
   "SliceTimingCorrected": false,
-  "TaskName": "balloon analog risk task"
+  "TaskName": "balloon analog risk task",
+  "SpatialReference": "bids::sub-01/anat/sub-01_desc-preproc_T1w.nii.gz"
 }

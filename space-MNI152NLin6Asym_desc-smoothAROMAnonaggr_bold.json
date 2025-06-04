@@ -1,0 +1,4 @@
+{
+  "SpatialReference": "https://s3.amazonaws.com/templateflow/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_T1w.nii.gz",
+  "SkullStripped": false
+}
